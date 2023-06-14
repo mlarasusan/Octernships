@@ -6,7 +6,7 @@
 
 | Task  | Expected Timeline (suggested) |
 | ------------- | ------------- |
-| Partner Application Review | 1 week |
+| Partner Application Review | 1,5 week |
 | Setting up your Octernship project | 2 weeks |
 | Students applying to Octernship project | 2-3 weeks |
 | Partner reviewing student submissions | 2-3 weeks |
